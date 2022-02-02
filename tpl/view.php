@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Gitのテスト</h1>
-    <p>あなたの名前は…</p>
-    <p>諸越敏夫です。</p>
+    <p>自分の名前は…</p>
+    <p><?php echo $last_name.$first_name?>です。</p>
 </body>
 </html>

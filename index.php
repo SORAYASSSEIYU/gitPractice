@@ -3,9 +3,9 @@
 require_once './function/func.php';
 
 //苗字
-$last_name = '';
+$last_name = '小川';
 //名前
-$first_name = '';
+$first_name = '慧';
 
 //viewの呼び出し
 require_once './tpl/view.php';
